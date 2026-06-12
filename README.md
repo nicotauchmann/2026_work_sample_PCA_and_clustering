@@ -6,7 +6,7 @@
 - Link to database files: In project folder
 - Source: ~5000 songs with attributes from Spotify
 - Key Features: danceability, energy, loudness, spechiness, acousticness, instrumentalness, liveness, valence, tempo
-## Example Visualisations
+## Example Visualisations 
 <img width="1355" height="759" alt="silhouette_score" src="https://github.com/nicotauchmann/unsupervised_machine_learning_PCA_and_clustering/blob/e2f37601d7b8961703bb9fb19f926ebffde756d1/sample_pictures/silhouette_score.png" />
 <img width="1355" height="759" alt="inertia_score" src="https://github.com/nicotauchmann/unsupervised_machine_learning_PCA_and_clustering/blob/da2461a0dbf85a4eb48f5bfbb8ffe926c9b07964/sample_pictures/inertia_score.png" />
 
